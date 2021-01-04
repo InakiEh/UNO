@@ -1,0 +1,11 @@
+C:\Users\Iñaki\source\repos\UNO\UNO\bin\Debug\netcoreapp3.0\UNO.exe
+C:\Users\Iñaki\source\repos\UNO\UNO\bin\Debug\netcoreapp3.0\UNO.deps.json
+C:\Users\Iñaki\source\repos\UNO\UNO\bin\Debug\netcoreapp3.0\UNO.runtimeconfig.json
+C:\Users\Iñaki\source\repos\UNO\UNO\bin\Debug\netcoreapp3.0\UNO.runtimeconfig.dev.json
+C:\Users\Iñaki\source\repos\UNO\UNO\bin\Debug\netcoreapp3.0\UNO.dll
+C:\Users\Iñaki\source\repos\UNO\UNO\bin\Debug\netcoreapp3.0\UNO.pdb
+C:\Users\Iñaki\source\repos\UNO\UNO\obj\Debug\netcoreapp3.0\UNO.csprojAssemblyReference.cache
+C:\Users\Iñaki\source\repos\UNO\UNO\obj\Debug\netcoreapp3.0\UNO.AssemblyInfoInputs.cache
+C:\Users\Iñaki\source\repos\UNO\UNO\obj\Debug\netcoreapp3.0\UNO.AssemblyInfo.cs
+C:\Users\Iñaki\source\repos\UNO\UNO\obj\Debug\netcoreapp3.0\UNO.dll
+C:\Users\Iñaki\source\repos\UNO\UNO\obj\Debug\netcoreapp3.0\UNO.pdb
